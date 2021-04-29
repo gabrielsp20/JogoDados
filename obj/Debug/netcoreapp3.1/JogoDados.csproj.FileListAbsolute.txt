@@ -1,0 +1,16 @@
+C:\Users\gabri\source\repos\JogoDados\bin\Debug\netcoreapp3.1\JogoDados.exe
+C:\Users\gabri\source\repos\JogoDados\bin\Debug\netcoreapp3.1\JogoDados.deps.json
+C:\Users\gabri\source\repos\JogoDados\bin\Debug\netcoreapp3.1\JogoDados.runtimeconfig.json
+C:\Users\gabri\source\repos\JogoDados\bin\Debug\netcoreapp3.1\JogoDados.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\JogoDados\bin\Debug\netcoreapp3.1\JogoDados.dll
+C:\Users\gabri\source\repos\JogoDados\bin\Debug\netcoreapp3.1\JogoDados.pdb
+C:\Users\gabri\source\repos\JogoDados\obj\Debug\netcoreapp3.1\JogoDados.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\JogoDados\obj\Debug\netcoreapp3.1\JogoDados.Form1.resources
+C:\Users\gabri\source\repos\JogoDados\obj\Debug\netcoreapp3.1\JogoDados.Properties.Resources.resources
+C:\Users\gabri\source\repos\JogoDados\obj\Debug\netcoreapp3.1\JogoDados.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\JogoDados\obj\Debug\netcoreapp3.1\JogoDados.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\JogoDados\obj\Debug\netcoreapp3.1\JogoDados.AssemblyInfo.cs
+C:\Users\gabri\source\repos\JogoDados\obj\Debug\netcoreapp3.1\JogoDados.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\JogoDados\obj\Debug\netcoreapp3.1\JogoDados.dll
+C:\Users\gabri\source\repos\JogoDados\obj\Debug\netcoreapp3.1\JogoDados.pdb
+C:\Users\gabri\source\repos\JogoDados\obj\Debug\netcoreapp3.1\JogoDados.genruntimeconfig.cache
